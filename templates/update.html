@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5">
+    <h2 class="mb-4">Update Todo</h2>
+    <form method="POST">
+        <div class="mb-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" name="title" class="form-control" id="title" value="{{ todo.title }}" required>
+        </div>
+        <div class="mb-3">
+            <label for="desc" class="form-label">Description</label>
+            <input type="text" name="desc" class="form-control" id="desc" value="{{ todo.desc }}" required>
+
+        </div>
+        <button type="submit" class="btn btn-outline-secondary">Update</button>
+        <a href="/todo" class="btn btn-outline-secondary">Cancel</a>
+    </form>
+</div>
+{% endblock %}
