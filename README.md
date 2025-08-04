@@ -53,6 +53,7 @@ Todo_Folio/
 
 git clone https://github.com/sanjayzorojuro/Todo_Folio.git
 cd Todo_Folio
+
 2. Create virtual environment and activate it
 bash
 Copy
@@ -61,12 +62,14 @@ python -m venv venv
 source venv/bin/activate  # For Linux/macOS
 # OR
 venv\Scripts\activate     # For Windows
+
 3. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Run the app locally
+
+5. Run the app locally
 bash
 Copy
 Edit
