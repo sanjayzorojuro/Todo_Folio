@@ -26,6 +26,7 @@ A simple and elegant portfolio + todo web app built with **Flask**, designed to 
 Todo_Folio/
 
 ├── app.py # Main Flask application
+
 ├── templates/ # HTML templates (Jinja2)
 
 │ ├── base.html
