@@ -2,7 +2,7 @@
 
 A simple and elegant portfolio + todo web app built with **Flask**, designed to showcase personal info and manage tasks using a clean Bootstrap interface.
 
-![Todo_Folio Screenshot](https://your-screenshot-url-if-any.com) <!-- optional -->
+![Todo_Folio Screenshot](https://1drv.ms/i/c/8b1d5b716ade8fd8/EfUL_j4OpfNJpSqSmA04Z-4B97nOsY3fDufDIrQlbg16wA?e=Chm5zi) <!-- optional -->
 
 ---
 
