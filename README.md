@@ -34,9 +34,6 @@ Todo_Folio/
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-yaml
-Copy
-Edit
 
 ---
 
