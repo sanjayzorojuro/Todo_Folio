@@ -76,7 +76,7 @@ Edit
 python app.py
 Visit http://127.0.0.1:5000 in your browser.
 
-
+---
 
 🚀 Deployment
 This app can be deployed to platforms like:
@@ -89,17 +89,14 @@ Fly.io
 
 Heroku (paid plans only)
 
-
+---
 
 Example start command for deployment:
-bash
-
-Copy
-
-Edit
-
 gunicorn app:app
 
+
+
+---
 
 
 
@@ -120,6 +117,7 @@ python3
 Html
 
 Render
+---
 
 
 
