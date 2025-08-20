@@ -15,7 +15,7 @@ A simple and elegant portfolio + todo web app built with **Flask**, designed to 
 - 🎨 Bootstrap 5 UI design
 - 🧠 "About Me" section to showcase personal profile 
 - ✅ Create, Update, Delete tasks
-- 📅 Tasks saved with timestamps
+- 📅 Tasks saved with timestamps 
 - 🗂 SQLite for persistent local storage
 - 🌐 Responsive design, mobile-ready 
 
