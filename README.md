@@ -13,7 +13,7 @@ A simple and elegant portfolio + todo web app built with **Flask**, designed to 
 
 - 🔐 Flask-powered backend
 - 🎨 Bootstrap 5 UI design
-- 🧠 "About Me" section to showcase personal profile
+- 🧠 "About Me" section to showcase personal profile 
 - ✅ Create, Update, Delete tasks
 - 📅 Tasks saved with timestamps
 - 🗂 SQLite for persistent local storage
