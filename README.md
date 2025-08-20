@@ -17,7 +17,7 @@ A simple and elegant portfolio + todo web app built with **Flask**, designed to 
 - ✅ Create, Update, Delete tasks
 - 📅 Tasks saved with timestamps
 - 🗂 SQLite for persistent local storage
-- 🌐 Responsive design, mobile-ready
+- 🌐 Responsive design, mobile-ready 
 
 ---
 
